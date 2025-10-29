@@ -10,8 +10,8 @@ To write a python program for creating Chat using TCP Sockets Links.
 ## PROGRAM
 ## CLIENT:
 ```python
-Developed by: RISHICHANDRAN
-Reg no: 21222233005
+Developed by: K S VINAY SUHIRTHAN
+Reg no: 212224230305
 import socket 
 s=socket.socket() 
 s.connect(('localhost',8000)) 
